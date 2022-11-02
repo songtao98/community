@@ -8,8 +8,8 @@ This is the starting point for joining and contributing to the Koordinator commu
 
 You can reach the maintainers of this project at:
 
-- [Slack](https://join.slack.com/t/koordinator-sh/shared_invite/zt-1756qoub4-Cn4~esfdlfAPsD7cwO2NzA)
-- DingTalk(Chinese): Search Group ID `33383887`
+- Slack: [Koordinator workspace](https://join.slack.com/t/koordinator-sh/shared_invite/zt-1756qoub4-Cn4~esfdlfAPsD7cwO2NzA) (*English*)
+- DingTalk: Search Group ID `33383887` (*Chinese*)
 - Bi-weekly Community Meeting: Coming soon
 
 ## Contribute
