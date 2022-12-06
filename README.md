@@ -8,9 +8,12 @@ This is the starting point for joining and contributing to the Koordinator commu
 
 You can reach the maintainers of this project at:
 
-- Slack: [Koordinator workspace](https://join.slack.com/t/koordinator-sh/shared_invite/zt-1756qoub4-Cn4~esfdlfAPsD7cwO2NzA) (*English*)
-- DingTalk: Search Group ID `33383887` (*Chinese*)
-- Bi-weekly Community Meeting: Coming soon
+- Bi-weekly Community Meeting (APAC, *Chinese*):
+  - Tuesday 19:30 GMT+8 (Asia/Shanghai)
+  - [Meeting Link(DingTalk)](https://meeting.dingtalk.com/j/cgTTojEI8Zy)
+  - [Notes and agenda](https://shimo.im/docs/m4kMLdgO1LIma9qD)
+- Slack(English): [koordinator channel](https://kubernetes.slack.com/channels/koordinator) in Kubernetes workspace
+- DingTalk(Chinese): Search Group ID `33383887`
 
 ## Contribute
 
