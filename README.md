@@ -1,4 +1,6 @@
 # Community
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsongtao98%2Fcommunity.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsongtao98%2Fcommunity?ref=badge_shield)
+
 
 Welcome to the Koordinator community!
 
@@ -28,3 +30,7 @@ If you have made contributions that meet the requirements of becoming Koordinato
 ## Code of Conduct
 
 Koordinator adopts [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsongtao98%2Fcommunity.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsongtao98%2Fcommunity?ref=badge_large)
